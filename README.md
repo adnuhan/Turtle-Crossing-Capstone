@@ -1,7 +1,11 @@
 
 # Crossing Capstone
 
-![Project Logo](link_to_your_logo_or_image.png) <!-- Optional: Add a logo or relevant image -->
+![Screenshot 2024-04-10 222849](https://github.com/NahundaBekele/Turtle-Crossing-Capstone/assets/138674654/9d561808-2541-4bbd-896b-a0aad8526bfb)
+
+![Screenshot 2024-04-10 222919](https://github.com/NahundaBekele/Turtle-Crossing-Capstone/assets/138674654/c9fb85c4-772a-4f75-b779-ae26984361d4)
+
+![Screenshot 2024-04-10 223136](https://github.com/NahundaBekele/Turtle-Crossing-Capstone/assets/138674654/8c9e8a36-7064-4eff-aabe-ace96495b65b)
 
 ## Description
 
