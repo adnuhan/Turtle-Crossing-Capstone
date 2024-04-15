@@ -1,7 +1,7 @@
 
 # Turtle Crossing Capstone 🐢🌟
 
-![Project Logo](link_to_your_logo_or_image.png) <!-- Optional: Add a logo or relevant image -->
+![New Project](https://github.com/NahundaBekele/Turtle-Crossing-Capstone/assets/138674654/6acd121d-4a0d-44ca-9f21-dea8a24ada74)
 
 ## Description
 
