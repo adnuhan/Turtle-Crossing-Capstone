@@ -37,7 +37,7 @@
 ## Usage
 
 1. Launch the program.
-2. Use arrow keys (UP and DOWN keys) to move the character.
+2. Use arrow keys (UP and DOWN) to move the character.
 3. Avoid obstacles and reach the end!
 
 ## Dependencies
