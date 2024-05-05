@@ -1,4 +1,3 @@
-
 # Turtle Crossing Capstone 🐢🌟
 
 ![New Project](https://github.com/NahundaBekele/Turtle-Crossing-Capstone/assets/138674654/6acd121d-4a0d-44ca-9f21-dea8a24ada74)
@@ -54,3 +53,6 @@ Contributions are welcome! If you'd like to enhance the project, feel free to su
 - Thanks to the Turtle module for making graphics programming fun!
 - Inspired by **100 Days of Code – The Complete Python Pro Bootcamp for 2022** taught by Dr. Angela Yu.
 
+## Author
+
+ **Nahunda Bekele** (https://github.com/NahundaBekele)
